@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name":"Lokesh Reddi",
+    "occupation":"Software Engineer",
+    "description":"I make Web Application and Website using React JS and Java Tech Stack",
+    "image":"profilepic.jpg",
+    "bio":"I love to code and create amazing web apps. I have experience working in some of the best compaines in the world. I am actively learning and practicing Machine Learning at the moment.",
+    "contactmessage":"PLEASE CONTACT ME FOR WEBSITES",
+    "email": "reddi.lokesh@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"Maple Ridge",
+      "city":"Vancouver",
+      "state":"BC",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/reddi.lokesh",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lokesh-reddi-1713ba7/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"International Institute of Information Technology Bangalore",
+        "degree":"Post Graduate Diploma ,Machine learning & Artificial Intelligence",
+        "graduated":"April 2020",
+        "description":"30 Case Studies and Assignments, 450 Hours of Learning, lots of teamwork, and finally I am proud to complete my  PG diploma in artificial intelligence and machine learning. Looking forward to do some really cool projects in Deep learning."
+      },
+      {
+        "school":"Jawaharlal Nehru Technological University",
+        "degree":"Bachelor of Technology",
+        "graduated":"May 2010",
+        "description":"Computer Science Engineering"
+      }
+    ],
+    "work":[
+      {
+        "company":"Wells Fargo",
+        "title":"Senior Full Stack Developer (AVP)",
+        "years":"April 2015 - December 2020",
+        "description":"Worked in wholesale banking division of Wells Fargo, built web applications for Commercial Cards processing. Winner of Global Technology Hackathon 2019 (Wells Fargo) in the challenge Vendor Interaction Management System."
+      },
+      {
+        "company":"Tata Consultancy Services",
+        "title":"Software Engineer",
+        "years":"October 2010 - April 2015",
+        "description":"Worked for important banking domain clients like Bank of America, AIG and Deluxe Corporation."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"MySql",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [     
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.png",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Lokesh is a wonderful person to work with he has commendable knowledge on Java/J2EE tech stack I know him as a back end developer for quite some time but he excelled in React JS in a span of few months and contributed to projects as well, he is a sincere and smart working guy..",
+        "user":"Bhaskar Varada (Avp) Wells Fargo"
+      }
+    ]
+  }
+}
